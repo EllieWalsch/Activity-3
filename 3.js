@@ -9,4 +9,4 @@ const quantity = 3;
 const total = price * quantity;
 
 const message = `You bought ${quantity} ${item} for ${total}`;
-const.log(message);
+console.log(message);
